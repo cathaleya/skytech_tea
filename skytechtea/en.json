@@ -1,0 +1,101 @@
+{
+  "id": "en",
+  "label": "English",
+  "translations": {
+    "store-search-placeholder": "search packages",
+    "action": {
+      "update": "update",
+      "cancel": "cancel"
+    },
+    "package": {
+      "update-all": "UPDATE ALL",
+      "cta-AVAILABLE": "INSTALL",
+      "cta-INSTALLED": "INSTALLED",
+      "cta-INSTALLING": "INSTALLING",
+      "cta-UNINSTALLED": "RE-INSTALL",
+      "cta-UNINSTALL": "UNINSTALL",
+      "cta-NEEDS_UPDATE": "UPDATE",
+      "cta-UPDATING": "UPDATING",
+      "cta-UPDATED": "UPDATED",
+      "cta-PRUNE": "PRUNE",
+      "cta-PRUNING": "PRUNING",
+      "open": "OPEN",
+      "open-in-terminal": "OPEN IN TERMINAL",
+      "local-package": "local package",
+      "not-in-pantry": "not yet added to pantry"
+    },
+    "footer": {
+      "quick-links-title": "quick links",
+      "about-tea-store": "about the tea store",
+      "report-a-problem": "report a problem",
+      "visit-website": "visit tea.xyz",
+      "terms-services": "terms & services",
+      "privacy-policy": "privacy-policy"
+    },
+    "documentation": {
+      "title": "documentation",
+      "workshops": "workshops"
+    },
+    "view-all": "view all",
+    "sorting": {
+      "label": "Sort by",
+      "popularity": "Most popular",
+      "most-recent": "Most recent"
+    },
+    "common": {
+      "home": "home",
+      "all": "All",
+      "articles": "Articles",
+      "workshops": "Workshops",
+      "metadata": "Metadata",
+      "homepage": "Homepage",
+      "documentation": "Documentation",
+      "github-repository": "Github Repository",
+      "repository": "Repository",
+      "contributors": "Contributors",
+      "view-on-github": "VIEW ON GITHUB"
+    },
+    "tabs": {
+      "details": "pkg",
+      "cli": "cli",
+      "gui": "gui"
+    },
+    "notification": {
+      "update-header": "update tea/gui to {{version}}?",
+      "gui-restarting": "Proceeding will cause the application to restart upon completion. Please ensure that you do not have any operations in progress. Do you want to proceed?",
+      "gui-restart": "restart"
+    },
+    "side-menu-title": {
+      "discover": "discover",
+      "all": "All Packages",
+      "installed": "Installed Packages",
+      "installed_updates_available": "Available Updates",
+      "recently_updated": "Recently Updated",
+      "new_packages": "New Packages",
+      "popular": "Popular",
+      "featured": "Featured",
+      "essentials": "Essentials",
+      "starstruck": "Starstruck Heavyweights",
+      "made_by_tea": "made by tea",
+      "local_packages": "Local Packages"
+    },
+    "tags": {
+      "discover": "discover",
+      "all": "all packages",
+      "installed": "installed",
+      "installed_updates_available": "Updates available",
+      "recently_updated": "Recently updated",
+      "new_packages": "New packages",
+      "popular": "Popular",
+      "featured": "Featured",
+      "essentials": "Essentials",
+      "starstruck": "Starstruck",
+      "made_by_tea": "Made by tea",
+      "local_packages": "Local Packages"
+    },
+    "discover": {
+      "featured_title": "local AI essentials",
+      "featured_description": "Explore the realm of local AI. This is your platform to tinker with high-profile AI tools like AutoGPT and Stable Diffusion Web UI, right from your local system. Jumpstart your AI projects while keeping your data safe and secure, with the freedom to fine-tune as you wish."
+    }
+  }
+}
